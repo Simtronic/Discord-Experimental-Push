@@ -1,0 +1,9 @@
+Dies ist eine Benachrichgigung an alle Mods und die die dies lesen können.
+
+Ich habe einen Weg gefunden über GitHub Textdateien zu versenden, und zwar auf alle Webhooks die es so gibt.
+Interessante Sache bei der ich noch nicht weiß wie ich sie finden soll, oder was sich so damit machen lässt.
+Aus Sicherheitsgründen bitte ich euch drum sorgfältig damit umzugehen ( falls ihr überhaupt damit arbeiten könnt).
+
+Mit freundlichen Grüßen,
+
+Simtronic Music.
